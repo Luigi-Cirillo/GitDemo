@@ -1,0 +1,8 @@
+11:01:43.590 [main] INFO  Resources.Base - Clicked on login button
+11:01:44.904 [main] INFO  Resources.Base - Restricted user
+11:01:53.586 [main] INFO  Resources.Base - Checked the Nav Bar
+11:12:37.735 [TestNG-tests-2] INFO  Resources.Base - driver is initialized
+11:12:41.883 [TestNG-tests-1] INFO  Resources.Base - Validated the label
+11:12:41.896 [TestNG-tests-3] INFO  Resources.Base - Checked the Nav Bar
+11:12:44.393 [TestNG-tests-2] INFO  Resources.Base - Clicked on login button
+11:14:13.095 [TestNG-tests-2] INFO  Resources.Base - driver is initialized

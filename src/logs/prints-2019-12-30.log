@@ -1,0 +1,8 @@
+15:38:28.283 [main] INFO  Resources.Base - Clicked on login button
+15:38:29.212 [main] INFO  Resources.Base - Restricted user
+15:38:38.913 [main] INFO  Resources.Base - Checked the Nav Bar
+16:40:06.637 [main] INFO  Resources.Base - driver is initialized
+16:40:12.732 [main] INFO  Resources.Base - Clicked on login button
+16:40:14.103 [main] INFO  Resources.Base - Non restricted user
+16:40:16.520 [main] INFO  Resources.Base - Clicked on login button
+16:40:17.536 [main] INFO  Resources.Base - Restricted user
