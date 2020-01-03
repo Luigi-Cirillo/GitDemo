@@ -40,6 +40,7 @@ public class Base {
 		file.close();
 		//String browserName=prop.getProperty("browser");
 		System.out.println("GIT test");
+		System.out.println("GIT test in develop branch");
 		//mvn test -Dbrowser=chrome writes in System.properties the browser name
 		String browserName=System.getProperty("browser");
 		String isHeadless=System.getProperty("headless");
